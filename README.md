@@ -1,3 +1,3 @@
 # Gradio-Primer
 
-Just a Grdio test.
+Just a Gradio test.
